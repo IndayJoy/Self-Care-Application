@@ -4,15 +4,20 @@
 ![Picture2](https://user-images.githubusercontent.com/109730772/180193341-7a9398e3-2507-438c-a583-ae621d8c73c1.png)
 
 Our Aplication practice of individuals looking after their own health, maintaining a regular daily routine, spending time in nature, doing a hobby you enjoy, and expressing gratitude. Self-care can look different for everyone, but to count as self-care, the behavior should promote health and happiness for you.
-# Requirements 
-At least 3gb of ram
+
+# Requirements
+* Android Lolipop and up
+* 1gb of storage
+* At least 3gb of ram
 
 
 
 
 ## Features
 * User Interface / Design 
+
 ![Picture3](https://user-images.githubusercontent.com/109730772/180194147-7cdb2bb2-2ffa-42e9-a12d-8c3e6dbab9e2.png)
+
 * Male Dashboard
 
 ![Picture17](https://user-images.githubusercontent.com/109730772/180199184-7d4b009e-1897-493d-b722-3cd5b6c9981e.png)

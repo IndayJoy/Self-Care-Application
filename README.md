@@ -3,7 +3,7 @@
 ## Overview
 ![Picture2](https://user-images.githubusercontent.com/109730772/180193341-7a9398e3-2507-438c-a583-ae621d8c73c1.png)
 
-Our Aplication practice of individuals looking after their own health, maintaining a regular daily routine, spending time in nature, doing a hobby you enjoy, and expressing gratitude. Self-care can look different for everyone, but to count as self-care, the behavior should promote health and happiness for you.
+Our Aplication practice of individuals looking after themselves, maintaining a regular daily routine, spending your time the way want, doing a hobby you enjoy, and expressing gratitude. Self-care can look different for everyone, but to count as self-care, the behavior should promote health and happiness for you.
 
 # Requirements
 * Android Lolipop and up

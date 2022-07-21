@@ -48,7 +48,7 @@ Our Aplication practice of individuals looking after their own health, maintaini
 Click here: 
 
 # Reseacher/ Developer:
-* Mary joy R. Salgarino
+* Mary joy R. Salgarino (BOANG)
 * Julius S. Enriques
 * Rene G. Padilla
 * Eugene Recca R. Ramirez

@@ -42,6 +42,8 @@ Our Aplication practice of individuals looking after themselves, maintaining a r
 
 
 *Can track your previous activities 
+
+
 ![Picture10](https://user-images.githubusercontent.com/109730772/180195900-1bab09b5-6fbb-4e4c-b0a6-ffb0911e9f0c.png)
 
 # Demo Video
